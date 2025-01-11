@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nurhasan
-- 👀 I’m interested in data analisys and programer
+- 👀 I’m interested in web developer, data and software developer
 - 🌱 I’m currently learning at university islam sultan agung
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me contact via my social media listed on my profile, I really need advice from you
