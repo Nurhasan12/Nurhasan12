@@ -1,8 +1,8 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Nurhasan 👋
 
 ![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-I'm a passionate **[Your Profession/Interest]** who loves exploring new technologies and building awesome projects. Welcome to my GitHub profile! 🚀
+I'm a passionate **student informatics enginering]** who loves exploring new technologies and building awesome projects. Welcome to my GitHub profile! 🚀
 
 ---
 
