@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-I'm a passionate **student informatics enginering]** who loves exploring new technologies and building awesome projects. Welcome to my GitHub profile! 🚀
+I'm a passionate **[Your Profession/Interest]** who loves exploring new technologies and building awesome projects. Welcome to my GitHub profile! 🚀
 
 ---
 
@@ -19,6 +19,8 @@ I'm a passionate **student informatics enginering]** who loves exploring new tec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github-dark)
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -26,10 +28,16 @@ I'm a passionate **student informatics enginering]** who loves exploring new tec
 
 ---
 
+### 🚀 Contribution Stats
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+
+![Contributions Per Year](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+---
+
 ### 📫 Connect with Me
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhasans)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nurhasan12_)
 
 ---
 
