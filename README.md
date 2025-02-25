@@ -15,29 +15,30 @@ I'm a passionate **[Your Profession/Interest]** who loves exploring new technolo
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&layout=compact&theme=tokyonight)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Nurhasan12&theme=github-dark)
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nurhasan12&theme=onedark)
 
 ---
 
 ### 🚀 Contribution Stats
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=tokyonight)
 
-![Contributions Per Year](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Contributions Per Year](https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhasans)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nurhasan12_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 ---
 
@@ -51,4 +52,6 @@ I'm a passionate **[Your Profession/Interest]** who loves exploring new technolo
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 Let's connect and build something amazing together! 🚀🔥
+
+
 
