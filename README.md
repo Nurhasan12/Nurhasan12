@@ -76,7 +76,7 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Nurhasan12/sortir-qc">
+  <a href="[https://github.com/Nurhasan12/qcsortir-app]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortir-qc&theme=tokyonight&hide_border=true&border_radius=10" alt="Sortir for QC" />
   </a>
   <a href="https://github.com/Nurhasan12/booking-system">
