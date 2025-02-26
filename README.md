@@ -92,7 +92,7 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" width="49%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=tokyonight&hide_border=true&background=EB545400&stroke=4B0082&ring=8A2BE2&fire=B57EDC&currStreakNum=9370DB&sideNums=6A5ACD&currStreakLabel=4B0082&sideLabels=4B0082&dates=9370DB" width="49%" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=tokyonight)
   </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" width="49%" alt="Top Languages"/>
