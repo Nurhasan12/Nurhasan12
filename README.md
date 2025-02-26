@@ -14,7 +14,7 @@ I'm a passionate **Software Developer & Tech Enthusiast** who loves exploring ne
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&layout=compact&theme=tokyonight)
 
