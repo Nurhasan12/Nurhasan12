@@ -76,14 +76,14 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/Nurhasan12/qcsortir-app]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortir-qc&theme=tokyonight&hide_border=true&border_radius=10" alt="Sortir for QC" />
+  <a href="https://github.com/Nurhasan12/qcsortir-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortirqc-app&theme=tokyonight&hide_border=true&border_radius=10" alt="Sortir for QC" />
   </a>
-  <a href="https://github.com/Nurhasan12/booking-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=booking-system&theme=tokyonight&hide_border=true&border_radius=10" alt="Booking System Web App" />
+  <a href="https://github.com/Nurhasan12/WebsiteSiladen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=WebsiteSiladen&theme=tokyonight&hide_border=true&border_radius=10" alt="Booking System Web App" />
   </a>
-  <a href="https://github.com/Nurhasan12/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio Website" />
+  <a href="https://github.com/Nurhasan12/landingpagepython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=landingpagepython&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio Website" />
   </a>
 </div>
 
