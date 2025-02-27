@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nurhasan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nurhasan&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&fontSize=60&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Nurhasan;Software+Developer;Full-Stack+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%26+AI+Enthusiast;Passionate+about+Building+Great+Software;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 </h1>
 
@@ -17,13 +15,9 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6ZG52MWl6bGt0bmkwd2NoaXZxbmtvdXlkNDdiaGN4OXlqbTQzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6ZG52MWl6bGt0bmkwd2NoaXZxbmtvdXlkNDdiaGN4OXlqbTQzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
-## 🌈 About Me
-
-> "Passionate software developer crafting digital experiences that combine elegance with functionality."
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
 <div align="center">
@@ -51,7 +45,6 @@
   </table>
 </div>
 
-## 🎯 Skills & Technologies
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
@@ -59,8 +52,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Skills & Technologies
 
 <div align="center">
-  <h3>🔄 My Development Workflow</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,php,laravel,nodejs,python,django,mysql,mongodb,git,github,vscode,tailwind,docker&perline=8" alt="Tech Stack Icons" />
   <h3>💻 My Tech Stack</h3>
   
   <table>
@@ -116,12 +107,11 @@
   </table>
 
   <h3>📊 My Expertise Levels</h3>
-
+  
   <table>
     <tr>
       <td>Frontend Development</td>
       <td>
-        <img src="https://progress-bar.dev/90/?width=500&color=4B0082" alt="Frontend: 90%" />
         <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 500px;">
           <div style="background: linear-gradient(90deg, #4B0082 0%, #8A2BE2 100%); border-radius: 10px; height: 20px; width: 90%;">
             <span style="color: white; padding-left: 10px; font-weight: bold;">90%</span>
@@ -132,7 +122,6 @@
     <tr>
       <td>Backend Development</td>
       <td>
-        <img src="https://progress-bar.dev/85/?width=500&color=6A5ACD" alt="Backend: 85%" />
         <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 500px;">
           <div style="background: linear-gradient(90deg, #4B0082 0%, #8A2BE2 100%); border-radius: 10px; height: 20px; width: 85%;">
             <span style="color: white; padding-left: 10px; font-weight: bold;">85%</span>
@@ -143,7 +132,6 @@
     <tr>
       <td>Database Management</td>
       <td>
-        <img src="https://progress-bar.dev/80/?width=500&color=8A2BE2" alt="Database: 80%" />
         <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 500px;">
           <div style="background: linear-gradient(90deg, #4B0082 0%, #8A2BE2 100%); border-radius: 10px; height: 20px; width: 80%;">
             <span style="color: white; padding-left: 10px; font-weight: bold;">80%</span>
@@ -154,7 +142,6 @@
     <tr>
       <td>DevOps & Deployment</td>
       <td>
-        <img src="https://progress-bar.dev/75/?width=500&color=9370DB" alt="DevOps: 75%" />
         <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 500px;">
           <div style="background: linear-gradient(90deg, #4B0082 0%, #8A2BE2 100%); border-radius: 10px; height: 20px; width: 75%;">
             <span style="color: white; padding-left: 10px; font-weight: bold;">75%</span>
@@ -165,7 +152,6 @@
     <tr>
       <td>AI & Machine Learning</td>
       <td>
-        <img src="https://progress-bar.dev/70/?width=500&color=B57EDC" alt="AI & ML: 70%" />
         <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 500px;">
           <div style="background: linear-gradient(90deg, #4B0082 0%, #8A2BE2 100%); border-radius: 10px; height: 20px; width: 70%;">
             <span style="color: white; padding-left: 10px; font-weight: bold;">70%</span>
@@ -176,7 +162,6 @@
   </table>
 </div>
 
-## 📈 GitHub Analytics
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
@@ -184,21 +169,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" width="49%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=tokyonight)
-  </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" width="49%" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=B57EDC&line=9370DB&point=6A5ACD&hide_border=true" width="98%" alt="Activity Graph"/>
   <a href="https://github.com/Nurhasan12">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
-## 🏆 GitHub Achievements
 <div align="center">
   <a href="https://github.com/Nurhasan12">
     <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurhasan12&theme=dracula" alt="GitHub Profile Summary"/>
@@ -229,30 +205,24 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nurhasan12&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="Trophy"/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
 
-## 🔥 Featured Projects
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
 
 <div align="center">
   <a href="https://github.com/Nurhasan12/sortir-qc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortir-qc&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" alt="Sortir QC" width="49%"/>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortir-qc&theme=react&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="Sortir QC" width="48%"/>
   </a>
   <a href="https://github.com/Nurhasan12/booking-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=booking-system&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" alt="Booking System" width="49%"/>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=booking-system&theme=react&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="Booking System" width="48%"/>
   </a>
   <br>
   <a href="https://github.com/Nurhasan12/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=portfolio&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" alt="Portfolio" width="49%"/>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=portfolio&theme=react&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="Portfolio" width="48%"/>
   </a>
 </div>
 
-## 🛠️ Current Projects
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
@@ -268,10 +238,6 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Sortir for QC</td>
-      <td>Management system for quality control</td>
-      <td>Laravel, Filament, MySQL</td>
-      <td>✅ Active</td>
       <td><b>Sortir for QC</b></td>
       <td>Management system for quality control with advanced filtering and reporting</td>
       <td>
@@ -282,10 +248,6 @@
       <td><img src="https://img.shields.io/badge/Active-2ecc71?style=for-the-badge" alt="Active" /></td>
     </tr>
     <tr>
-      <td>Booking System</td>
-      <td>Comprehensive booking management solution</td>
-      <td>Laravel, Vue.js, Tailwind</td>
-      <td>✅ Active</td>
       <td><b>Booking System</b></td>
       <td>Comprehensive booking management solution with customizable workflows</td>
       <td>
@@ -296,10 +258,6 @@
       <td><img src="https://img.shields.io/badge/Active-2ecc71?style=for-the-badge" alt="Active" /></td>
     </tr>
     <tr>
-      <td>Portfolio Website</td>
-      <td>Personal showcase of projects and skills</td>
-      <td>React, Node.js, MongoDB</td>
-      <td>✅ Active</td>
       <td><b>Portfolio Website</b></td>
       <td>Personal showcase of projects and skills with interactive elements</td>
       <td>
@@ -312,7 +270,6 @@
   </table>
 </div>
 
-## 🌐 Connect With Me
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
@@ -334,7 +291,6 @@
   </a>
 </div>
 
-## 📝 Latest Blog Posts
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rolled-Up%20Newspaper.png" alt="Rolled-Up Newspaper" width="25" height="25" /> Latest Blog Posts
 
 <div align="center">
@@ -345,30 +301,22 @@
       <th>Read</th>
     </tr>
     <tr>
-      <td>Modern Web Development in 2025</td>
       <td><b>Modern Web Development in 2025</b></td>
       <td>A deep dive into the latest trends and technologies</td>
-      <td><a href="#">Read More</a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Read-4B0082?style=flat-square" alt="Read" /></a></td>
     </tr>
     <tr>
-      <td>Integrating AI with Web Applications</td>
       <td><b>Integrating AI with Web Applications</b></td>
       <td>How to enhance your web apps with AI capabilities</td>
-      <td><a href="#">Read More</a></td>
       <td><a href="#"><img src="https://img.shields.io/badge/Read-4B0082?style=flat-square" alt="Read" /></a></td>
     </tr>
   </table>
 </div>
 
-## 🎵 Currently Vibing To
-
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile"/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
 </div>
 
-## 💪 Motivational Quote of the Day
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Quote of the Day
 
 <div align="center">
@@ -376,7 +324,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
   <!-- GitHub contribution snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/github-contribution-grid-snake-dark.svg">
