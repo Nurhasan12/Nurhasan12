@@ -5,17 +5,17 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%26+AI+Enthusiast;Passionate+about+Building+Great+Software;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurhasan12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://github.com/Nurhasan12">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true" alt="Activity Graph"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/Nurhasan12"><img src="https://img.shields.io/github/followers/Nurhasan12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" /></a>
@@ -196,12 +196,6 @@
   <!-- Fixed Streak Stats URL -->
   <a href="https://github.com/Nurhasan12">
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=dark&hide_border=true&background=0D1117&stroke=C792EA&ring=7A77FF&fire=C792EA&currStreakNum=FFFFFF&sideNums=C792EA&currStreakLabel=7A77FF&sideLabels=C792EA&dates=FFFFFF" alt="GitHub Streak Stats"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Nurhasan12">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true" alt="Activity Graph"/>
   </a>
 </div>
 
