@@ -7,6 +7,17 @@
 </h1>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurhasan12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
   <a href="https://github.com/Nurhasan12"><img src="https://img.shields.io/github/followers/Nurhasan12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Nurhasan12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Nurhasan12"><img src="https://img.shields.io/github/stars/Nurhasan12?style=for-the-badge&logo=github&color=ff6b81&logoColor=white&labelColor=334455" alt="GitHub User's stars"/></a>
