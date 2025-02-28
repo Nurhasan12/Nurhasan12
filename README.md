@@ -418,7 +418,7 @@ GitHub Analytics
     <div style="flex: 1 1 250px; max-width: 250px">
       <a href="https://github.com/Nurhasan12">
         <img
-          width="100%"
+          width="40%"
           src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true"
           alt="GitHub Stats"
         />
@@ -427,7 +427,7 @@ GitHub Analytics
     <div style="flex: 1 1 250px; max-width: 250px">
       <a href="https://github.com/Nurhasan12">
         <img
-          width="100%"
+          width="40%"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&hide_border=true"
           alt="Top Languages"
         />
@@ -436,7 +436,7 @@ GitHub Analytics
     <div style="flex: 1 1 250px; max-width: 250px">
       <a href="https://github.com/Nurhasan12">
         <img
-          width="100%"
+          width="40%"
           src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=dark&hide_border=true&background=0D1117&stroke=C792EA&ring=7A77FF&fire=C792EA&currStreakNum=FFFFFF&sideNums=C792EA&currStreakLabel=7A77FF&sideLabels=C792EA&dates=FFFFFF"
           alt="GitHub Streak Stats"
         />
@@ -445,7 +445,7 @@ GitHub Analytics
     <div style="flex: 1 1 250px; max-width: 250px">
       <a href="https://github.com/Nurhasan12">
         <img
-          width="100%"
+          width="40%"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurhasan12&theme=dracula"
           alt="GitHub Profile Summary"
         />
