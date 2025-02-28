@@ -168,11 +168,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/Nurhasan12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
-  </a>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <div style="width: 49%;">
+    <a href="https://github.com/Nurhasan12">
+      <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nurhasan12&show_icons=true&count_private=true&hide=issues&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
+      <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+    </a>
+  </div>
+  <div style="width: 49%;">
+    <img src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg" alt="Snake animation" width="100%"/>
+    <a href="https://github.com/Nurhasan12">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=dark&hide_border=true&background=0D1117&stroke=C792EA&ring=7A77FF&fire=C792EA&currStreakNum=FFFFFF&sideNums=C792EA&currStreakLabel=7A77FF&sideLabels=C792EA&dates=FFFFFF" alt="GitHub Streak Stats"/>
+    </a>
+  </div>
 </div>
 
 <div align="center">
@@ -182,22 +190,13 @@
 </div>
 
 <div align="center">
-  <!-- Fixed Streak Stats URL -->
   <a href="https://github.com/Nurhasan12">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhasan12&theme=dark&hide_border=true&background=0D1117&stroke=C792EA&ring=7A77FF&fire=C792EA&currStreakNum=FFFFFF&sideNums=C792EA&currStreakLabel=7A77FF&sideLabels=C792EA&dates=FFFFFF" alt="GitHub Streak Stats"/>
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true" alt="Activity Graph"/>
   </a>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="line">
-</div>
-
-<img src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <a href="https://github.com/Nurhasan12">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true" alt="Activity Graph"/>
-  </a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Achievements
@@ -326,7 +325,7 @@
 </div>
 
 <div align="center">
-  <!-- GitHub contribution snake -->
+  <!-- GitHub contribution snake (removed duplicate) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/github-contribution-grid-snake.svg">
