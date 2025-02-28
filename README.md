@@ -384,6 +384,26 @@ Skills & Technologies
 GitHub Analytics
 
 <div align="center">
+  <!-- Snake Animation (Besar) -->
+  <div style="margin-bottom: 20px">
+    <img
+      src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg"
+      alt="Snake animation"
+      width="60%"
+    />
+  </div>
+
+  <!-- Activity Graph (Besar) -->
+  <div style="margin-bottom: 20px">
+    <a href="https://github.com/Nurhasan12">
+      <img
+        width="50%"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true"
+        alt="Activity Graph"
+      />
+    </a>
+  </div>
+
   <!-- Stats lainnya (Lebih kecil, 3-4 kolom) -->
   <div
     style="
@@ -431,26 +451,6 @@ GitHub Analytics
         />
       </a>
     </div>
-  </div>
-
-  <!-- Snake Animation (Besar) -->
-  <div style="margin-bottom: 20px">
-    <img
-      src="https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake.svg"
-      alt="Snake animation"
-      width="80%"
-    />
-  </div>
-
-  <!-- Activity Graph (Besar) -->
-  <div style="margin-bottom: 20px">
-    <a href="https://github.com/Nurhasan12">
-      <img
-        width="80%"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Nurhasan12&custom_title=Nurhasan's%20Contribution%20Graph&bg_color=0D1117&color=C792EA&line=7A77FF&point=C792EA&hide_border=true"
-        alt="Activity Graph"
-      />
-    </a>
   </div>
 
   <!-- Garis Pemisah -->
