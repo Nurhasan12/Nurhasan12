@@ -585,7 +585,7 @@ Current Projects
 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nurhasan" target="_blank">
+  <a href="#" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -597,13 +597,13 @@ Connect With Me
       alt="Instagram"
     />
   </a>
-  <a href="https://nurhasan-portofolio" target="_blank">
+  <a href="#" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=About.me&logoColor=white"
       alt="Portfolio"
     />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.nurhasan.5889@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
