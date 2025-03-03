@@ -430,14 +430,14 @@ GitHub Analytics
 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Nurhasan12/sortir-qc">
+<!--   <a href="https://github.com/Nurhasan12/sortir-qc">
     <img
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=sortir-qc&theme=react&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true"
       alt="Sortir QC"
       width="48%"
     />
-  </a>
-  <a href="https://github.com/Nurhasan12/booking-system">
+  </a> -->
+<!--   <a href="https://github.com/Nurhasan12/booking-system">
     <img
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nurhasan12&repo=booking-system&theme=react&bg_color=0D1117&title_color=C792EA&icon_color=7A77FF&text_color=FFFFFF&hide_border=true"
       alt="Booking System"
@@ -452,15 +452,15 @@ Featured Projects
       width="48%"
     />
   </a>
-</div>
+</div> -->
 
 <div align="center">
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
     width="100%"
     alt="line"
   />
-</div>
+</div> -->
 
 ##
 <img
