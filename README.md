@@ -427,12 +427,6 @@ GitHub Analytics
 </div>
 
 ##
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"
-  alt="Rocket"
-  width="25"
-  height="25"
-/>
 Featured Projects
 
 <div align="center">
