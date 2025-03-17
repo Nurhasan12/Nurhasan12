@@ -41,6 +41,7 @@
 </div>
 
 ##
+
 <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png"
   alt="Technologist"
@@ -107,6 +108,7 @@ About Me
 </div>
 
 ##
+
 <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"
   alt="Hammer and Wrench"
@@ -375,6 +377,7 @@ Skills & Technologies
 </div>
 
 ##
+
 <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"
   alt="Bar Chart"
@@ -427,6 +430,7 @@ GitHub Analytics
 </div>
 
 ##
+
 Featured Projects
 
 <div align="center">
