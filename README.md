@@ -301,9 +301,7 @@ Skills & Technologies
               background: linear-gradient(90deg, #4b0082 0%, #8a2be2 100%);
               border-radius: 10px;
               height: 20px;
-              width: 80%;
-            "
-          >
+              width: 80%;">
             <span style="color: white; padding-left: 10px; font-weight: bold"
               >80%</span
             >
