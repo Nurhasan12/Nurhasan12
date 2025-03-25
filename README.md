@@ -7,7 +7,7 @@
 </div>
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%26+AI+Enthusiast;Passionate+about+Building+Great+Software;Let's+Create+Something+Amazing+Together!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%26+AI+Enthusiast;Passionate+about+Building+Great+Software;Let's+Create+Something+Amazing+Together!"
     alt="Typing SVG"
   />
 </h1>
