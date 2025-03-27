@@ -47,7 +47,6 @@
   height="25"
 />
 About Me
-
 <div align="center">
   <table>
     <tr>
