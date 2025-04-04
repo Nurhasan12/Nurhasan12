@@ -682,7 +682,7 @@ Quote of the Day
   <a href="https://github.com/Nurhasan12">
     <img
       src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Nurhasan-4B0082?style=for-the-badge"
-      alt="Made  "
+      alt="comeon stronger"
     />
   </a>
 </div>
