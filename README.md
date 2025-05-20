@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nurhasan&desc=Software%20Developer%20%7C%20AI%20Enthusiast&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=ffffff"
-    width="100%"
+    width="90%"
     alt="Header"
   />
   
