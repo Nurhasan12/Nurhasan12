@@ -1,34 +1,256 @@
-name: Generate snake animation
+name: 🐍 Generate Contribution Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  # Runs at 00:00 UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows manual trigger
   workflow_dispatch:
-
+  
+  # Runs on push to main/master branch
   push:
-    branches:
-    - master
+    branches: [ "main", "master" ]
 
 jobs:
   generate:
+    name: 🎨 Generate Snake Animation
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 10
+    
     steps:
-      - name: generate snake.svg
+      - name: 🏗️ Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Generate Snake Animation (GitHub Dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Nurhasan12
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github
+      
+      - name: 🎯 Generate Snake Animation (Ocean Blue)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Nurhasan12
+          outputs: |
+            dist/snake-ocean.svg?palette=ocean.dark
+      
+      - name: 🌈 Generate Snake Animation (Rainbow)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Nurhasan12
+          outputs: |
+            dist/snake-rainbow.svg?color_snake=#ff6b6b,#4ecdc4,#45b7d1,#96ceb4,#feca57,#ff9ff3,#54a0ff
+      
+      - name: 🔥 Generate Snake Animation (Neon)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Nurhasan12
+          outputs: |
+            dist/snake-neon.svg?color_snake=#39ff14,#ff073a,#00ffff,#ff1493,#ffd700&color_dots=#0d1117,#161b22,#21262d,#30363d,#39ff14
+      
+      - name: 📂 Create index.html
+        run: |
+          mkdir -p dist
+          cat > dist/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>🐍 Snake Contribution Gallery</title>
+              <style>
+                  * {
+                      margin: 0;
+                      padding: 0;
+                      box-sizing: border-box;
+                  }
+                  
+                  body {
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                      min-height: 100vh;
+                      padding: 2rem;
+                  }
+                  
+                  .container {
+                      max-width: 1200px;
+                      margin: 0 auto;
+                      background: rgba(255, 255, 255, 0.1);
+                      backdrop-filter: blur(10px);
+                      border-radius: 20px;
+                      padding: 2rem;
+                      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+                  }
+                  
+                  h1 {
+                      text-align: center;
+                      color: white;
+                      margin-bottom: 2rem;
+                      font-size: 2.5rem;
+                      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+                  }
+                  
+                  .snake-gallery {
+                      display: grid;
+                      grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+                      gap: 2rem;
+                  }
+                  
+                  .snake-card {
+                      background: rgba(255, 255, 255, 0.2);
+                      border-radius: 15px;
+                      padding: 1.5rem;
+                      backdrop-filter: blur(5px);
+                      border: 1px solid rgba(255, 255, 255, 0.2);
+                      transition: transform 0.3s ease, box-shadow 0.3s ease;
+                  }
+                  
+                  .snake-card:hover {
+                      transform: translateY(-5px);
+                      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+                  }
+                  
+                  .snake-card h3 {
+                      color: white;
+                      margin-bottom: 1rem;
+                      text-align: center;
+                      font-size: 1.3rem;
+                  }
+                  
+                  .snake-card img {
+                      width: 100%;
+                      border-radius: 10px;
+                      background: white;
+                      padding: 1rem;
+                  }
+                  
+                  .footer {
+                      text-align: center;
+                      margin-top: 2rem;
+                      color: rgba(255, 255, 255, 0.8);
+                  }
+                  
+                  @media (max-width: 768px) {
+                      .snake-gallery {
+                          grid-template-columns: 1fr;
+                      }
+                      
+                      h1 {
+                          font-size: 2rem;
+                      }
+                  }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🐍 Snake Contribution Gallery</h1>
+                  <div class="snake-gallery">
+                      <div class="snake-card">
+                          <h3>🌙 GitHub Dark Theme</h3>
+                          <img src="snake-dark.svg" alt="Snake Dark Theme" />
+                      </div>
+                      
+                      <div class="snake-card">
+                          <h3>☀️ GitHub Light Theme</h3>
+                          <img src="snake-light.svg" alt="Snake Light Theme" />
+                      </div>
+                      
+                      <div class="snake-card">
+                          <h3>🌊 Ocean Blue Theme</h3>
+                          <img src="snake-ocean.svg" alt="Snake Ocean Theme" />
+                      </div>
+                      
+                      <div class="snake-card">
+                          <h3>🌈 Rainbow Theme</h3>
+                          <img src="snake-rainbow.svg" alt="Snake Rainbow Theme" />
+                      </div>
+                      
+                      <div class="snake-card">
+                          <h3>🔥 Neon Theme</h3>
+                          <img src="snake-neon.svg" alt="Snake Neon Theme" />
+                      </div>
+                  </div>
+                  
+                  <div class="footer">
+                      <p>🚀 Auto-generated daily by GitHub Actions</p>
+                      <p>💖 Made with love for Nurhasan12</p>
+                  </div>
+              </div>
+          </body>
+          </html>
+          EOF
+      
+      - name: 📊 Generate README with Stats
+        run: |
+          cat > dist/README.md << 'EOF'
+          # 🐍 Snake Contribution Animation Gallery
+          
+          > **Auto-generated snake animations eating my GitHub contributions!**
+          
+          ## 🎨 Available Themes
+          
+          ### 🌙 GitHub Dark Theme
+          ![Snake Dark](snake-dark.svg)
+          
+          ### ☀️ GitHub Light Theme  
+          ![Snake Light](snake-light.svg)
+          
+          ### 🌊 Ocean Blue Theme
+          ![Snake Ocean](snake-ocean.svg)
+          
+          ### 🌈 Rainbow Theme
+          ![Snake Rainbow](snake-rainbow.svg)
+          
+          ### 🔥 Neon Theme
+          ![Snake Neon](snake-neon.svg)
+          
+          ## 📈 Usage in Your README
+          
+          ```markdown
+          ![Snake Animation](https://raw.githubusercontent.com/Nurhasan12/Nurhasan12/output/snake-dark.svg)
+          ```
+          
+          ## 🔄 Auto-Update Schedule
+          - ⏰ **Daily at 00:00 UTC**
+          - 🔄 **On every push to main/master**
+          - 🎯 **Manual trigger available**
+          
+          ## 🛠️ Tech Stack
+          - GitHub Actions
+          - Platane/snk
+          - Custom CSS Styling
+          - Multiple Color Palettes
+          
+          ---
+          
+          <div align="center">
+          
+          **🚀 Last Updated:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          **💖 Made with love by GitHub Actions**
+          
+          </div>
+          EOF
+      
+      - name: 🚀 Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "🐍 Update snake animations [skip ci]"
+          # fqdn: # Optional: your custom domain
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📢 Success Notification
+        run: |
+          echo "✅ Snake animations generated successfully!"
+          echo "🎨 Generated themes: Dark, Light, Ocean, Rainbow, Neon"
+          echo "📱 Gallery available at: https://nurhasan12.github.io/Nurhasan12/"
+          echo "🔗 Raw files available in 'output' branch"
