@@ -229,9 +229,7 @@ Skills & Technologies
       </td>
     </tr>
   </table>
-
   <h3>📊 My Expertise Levels</h3>
-
   <table>
     <tr>
       <td>Frontend Development</td>
