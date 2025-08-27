@@ -6,6 +6,9 @@
   />
 </div>
 
+
+GitHub Analytics
+
 <div align="center">
   <!-- Snake Animation (Besar) -->
     <img
@@ -13,6 +16,9 @@
       alt="Snake animation"
       width="100%"
     />
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhasan12&langs_count=6&layout=compact&theme=react&border_radius=10&bg_color=20,0F2027,203A43,2C5364&hide_border=true" width="30%" alt="Top Languages"/>
   <a href="https://github.com/Nurhasan12">
         <img
           width="49%"
@@ -33,8 +39,6 @@
     />
   </div>
 </div>
-
-
 
 ##
 <img
