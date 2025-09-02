@@ -6,9 +6,6 @@
   />
 </div>
 
-
-GitHub Analytics
-
 <div align="center">
   <!-- Snake Animation (Besar) -->
     <img
